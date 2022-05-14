@@ -1,0 +1,51 @@
+.header{  
+  /* background-color: rgb(239, 238, 238); */
+  height: 6rem;
+  width: 100vw;
+  
+}
+.header .navbar{
+  display: flex;
+  /* flex-direction: row; */
+  /* align-items: center; */
+  justify-content: flex-end;
+  
+  /* background-color: blue; */
+}
+.menu-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  /* background-color: blueviolet; */
+  width: 50%;
+  margin: 1rem 1rem;
+}
+.menu-container a{
+  /* background-color: blanchedalmond; */
+  padding: .4rem;
+  margin: .5rem;
+  color: black;
+}
+.menu-container button{
+  padding: .6rem 1rem;
+  font-size: 1rem;
+  background-color: rgb(72, 72, 254);
+  border: none;
+  color: white;
+  outline: none;
+  border-radius: .2rem;
+  cursor: pointer;
+}
+.appIconCustom{
+  color: rgb(46, 42, 42);
+  margin: 1rem;
+  cursor: pointer;
+
+  /* background-color: aquamarine; */
+}
+.accountIconCustom{
+  color: rgb(46, 42, 42);
+  
+  /* background-color: aquamarine; */
+}
