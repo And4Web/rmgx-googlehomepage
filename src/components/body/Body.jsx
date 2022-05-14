@@ -1,5 +1,6 @@
 import React from "react";
 import SearchComponent from "../searchComponent/SearchComponent";
+
 import "./body.css";
 import googlelogo from "../../images/googleHomepage/googlelogo.jpg";
 

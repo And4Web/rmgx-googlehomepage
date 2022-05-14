@@ -1,0 +1,41 @@
+.footer{
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  background-color: violet;
+}
+
+.footer .footer-upper{
+  display: flex;
+  align-items: center;
+  height: 2.7rem;
+  background-color: rgb(239, 238, 238);
+  border-bottom: 1px solid rgb(197, 195, 195);
+  
+}
+.footer .footer-upper p{
+  margin: 0 1rem;
+  color: rgb(76, 75, 75);
+}
+.footer .footer-lower{
+  height: 2.7rem;
+  background-color: rgb(239, 238, 238);
+  
+}
+.footer .footer-lower{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer .footer-lower .left-menu a{
+  color: rgb(76, 75, 75);
+  margin: 0 1rem;
+}
+.footer .footer-lower .right-menu a{
+  color: rgb(76, 75, 75);
+  margin: 0 1rem;
+}
