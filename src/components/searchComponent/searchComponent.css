@@ -30,7 +30,7 @@
 }
 .search-buttons .buttonCustom{
   background-color: #f8f8f8;
-  color: black;
+  color: rgb(76, 75, 75);
   padding: .5rem 1rem;
   margin: 1rem .5rem;
   text-transform: capitalize;
