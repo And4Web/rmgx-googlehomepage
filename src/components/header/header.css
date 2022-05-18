@@ -26,6 +26,9 @@
   margin: .5rem;
   color: black;
 }
+.menu-container a:hover{
+  text-decoration: underline;
+}
 .menu-container button{
   padding: .6rem 1rem;
   font-size: 1rem;
@@ -35,6 +38,11 @@
   outline: none;
   border-radius: .2rem;
   cursor: pointer;
+}
+.menu-container button:hover{
+  background-color: rgb(101, 101, 253);
+  /* border: 2px solid rgb(213, 213, 253); */
+  outline: rgb(199, 199, 253);
 }
 .appIconCustom{
   color: rgb(46, 42, 42);

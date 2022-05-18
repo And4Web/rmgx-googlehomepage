@@ -18,6 +18,9 @@
   font-size: 1.2rem;
 
 }
+.search-input:hover{
+  box-shadow: 1px 1px 6px rgb(197, 196, 196);
+}
 .search-input .searchIconCustom{
   margin-left: .5rem;
   color: grey;
@@ -35,4 +38,7 @@
   margin: 1rem .5rem;
   text-transform: capitalize;
   font-size: 1rem;
+}
+.search-buttons .buttonCustom:hover{
+  border: 1px solid lightgrey;
 }
