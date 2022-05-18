@@ -66,6 +66,220 @@ function SearchPage() {
           </div>
         </div>
       </div>
+
+      <div className="search_results">
+        <div className="search_count">
+          <p>About 2,77,00,00,000 results (0.50 seconds)</p>
+        </div>
+        <div className="search_result">
+          <div className="search_result_link">
+            <div className="upper_link">
+              <p>https://www.merriam-webster.com /dictionary/search</p>
+              <MoreVertIcon className="link_more_icon" />
+            </div>
+            <a href="https://www.merriam-webster.com/dictionary/search">
+              <h2 className="search_result_title">
+                Search Definition & Meaning - Merriam - Webster
+              </h2>
+            </a>
+          </div>
+          <p className="search_result_description">
+            Definition of search ; 1 to look into or over carefully or
+            thoroughly in an effort to find or discover something: such as ; a
+            to examine in seeking something ; b ...
+          </p>
+        </div>
+
+        <div className="search_result">
+          <div className="search_result_link">
+            <div className="upper_link">
+              <p>https://www.merriam-webster.com /dictionary/search</p>
+              <MoreVertIcon className="link_more_icon" />
+            </div>
+            <a href="https://www.merriam-webster.com/dictionary/search">
+              <h2 className="search_result_title">
+                Search Definition & Meaning - Merriam - Webster
+              </h2>
+            </a>
+          </div>
+          <p className="search_result_description">
+            Definition of search ; 1 to look into or over carefully or
+            thoroughly in an effort to find or discover something: such as ; a
+            to examine in seeking something ; b ...
+          </p>
+        </div>
+
+        <div className="search_result">
+          <div className="search_result_link">
+            <div className="upper_link">
+              <p>https://www.merriam-webster.com /dictionary/search</p>
+              <MoreVertIcon className="link_more_icon" />
+            </div>
+            <a href="https://www.merriam-webster.com/dictionary/search">
+              <h2 className="search_result_title">
+                Search Definition & Meaning - Merriam - Webster
+              </h2>
+            </a>
+          </div>
+          <p className="search_result_description">
+            Definition of search ; 1 to look into or over carefully or
+            thoroughly in an effort to find or discover something: such as ; a
+            to examine in seeking something ; b ...
+          </p>
+        </div>
+
+        <div className="search_result">
+          <div className="search_result_link">
+            <div className="upper_link">
+              <p>https://www.merriam-webster.com /dictionary/search</p>
+              <MoreVertIcon className="link_more_icon" />
+            </div>
+            <a href="https://www.merriam-webster.com/dictionary/search">
+              <h2 className="search_result_title">
+                Search Definition & Meaning - Merriam - Webster
+              </h2>
+            </a>
+          </div>
+          <p className="search_result_description">
+            Definition of search ; 1 to look into or over carefully or
+            thoroughly in an effort to find or discover something: such as ; a
+            to examine in seeking something ; b ...
+          </p>
+        </div>
+
+        <div className="search_result">
+          <div className="search_result_link">
+            <div className="upper_link">
+              <p>https://www.merriam-webster.com /dictionary/search</p>
+              <MoreVertIcon className="link_more_icon" />
+            </div>
+            <a href="https://www.merriam-webster.com/dictionary/search">
+              <h2 className="search_result_title">
+                Search Definition & Meaning - Merriam - Webster
+              </h2>
+            </a>
+          </div>
+          <p className="search_result_description">
+            Definition of search ; 1 to look into or over carefully or
+            thoroughly in an effort to find or discover something: such as ; a
+            to examine in seeking something ; b ...
+          </p>
+        </div>
+
+        <div className="search_result">
+          <div className="search_result_link">
+            <div className="upper_link">
+              <p>https://www.merriam-webster.com /dictionary/search</p>
+              <MoreVertIcon className="link_more_icon" />
+            </div>
+            <a href="https://www.merriam-webster.com/dictionary/search">
+              <h2 className="search_result_title">
+                Search Definition & Meaning - Merriam - Webster
+              </h2>
+            </a>
+          </div>
+          <p className="search_result_description">
+            Definition of search ; 1 to look into or over carefully or
+            thoroughly in an effort to find or discover something: such as ; a
+            to examine in seeking something ; b ...
+          </p>
+        </div>
+
+        <div className="search_result">
+          <div className="search_result_link">
+            <div className="upper_link">
+              <p>https://www.merriam-webster.com /dictionary/search</p>
+              <MoreVertIcon className="link_more_icon" />
+            </div>
+            <a href="https://www.merriam-webster.com/dictionary/search">
+              <h2 className="search_result_title">
+                Search Definition & Meaning - Merriam - Webster
+              </h2>
+            </a>
+          </div>
+          <p className="search_result_description">
+            Definition of search ; 1 to look into or over carefully or
+            thoroughly in an effort to find or discover something: such as ; a
+            to examine in seeking something ; b ...
+          </p>
+        </div>
+
+        <div className="search_result">
+          <div className="search_result_link">
+            <div className="upper_link">
+              <p>https://www.merriam-webster.com /dictionary/search</p>
+              <MoreVertIcon className="link_more_icon" />
+            </div>
+            <a href="https://www.merriam-webster.com/dictionary/search">
+              <h2 className="search_result_title">
+                Search Definition & Meaning - Merriam - Webster
+              </h2>
+            </a>
+          </div>
+          <p className="search_result_description">
+            Definition of search ; 1 to look into or over carefully or
+            thoroughly in an effort to find or discover something: such as ; a
+            to examine in seeking something ; b ...
+          </p>
+        </div>
+
+        <div className="search_result">
+          <div className="search_result_link">
+            <div className="upper_link">
+              <p>https://www.merriam-webster.com /dictionary/search</p>
+              <MoreVertIcon className="link_more_icon" />
+            </div>
+            <a href="https://www.merriam-webster.com/dictionary/search">
+              <h2 className="search_result_title">
+                Search Definition & Meaning - Merriam - Webster
+              </h2>
+            </a>
+          </div>
+          <p className="search_result_description">
+            Definition of search ; 1 to look into or over carefully or
+            thoroughly in an effort to find or discover something: such as ; a
+            to examine in seeking something ; b ...
+          </p>
+        </div>
+
+        <div className="search_result">
+          <div className="search_result_link">
+            <div className="upper_link">
+              <p>https://www.merriam-webster.com /dictionary/search</p>
+              <MoreVertIcon className="link_more_icon" />
+            </div>
+            <a href="https://www.merriam-webster.com/dictionary/search">
+              <h2 className="search_result_title">
+                Search Definition & Meaning - Merriam - Webster
+              </h2>
+            </a>
+          </div>
+          <p className="search_result_description">
+            Definition of search ; 1 to look into or over carefully or
+            thoroughly in an effort to find or discover something: such as ; a
+            to examine in seeking something ; b ...
+          </p>
+        </div>
+
+        <div className="search_result">
+          <div className="search_result_link">
+            <div className="upper_link">
+              <p>https://www.merriam-webster.com /dictionary/search</p>
+              <MoreVertIcon className="link_more_icon" />
+            </div>
+            <a href="https://www.merriam-webster.com/dictionary/search">
+              <h2 className="search_result_title">
+                Search Definition & Meaning - Merriam - Webster
+              </h2>
+            </a>
+          </div>
+          <p className="search_result_description">
+            Definition of search ; 1 to look into or over carefully or
+            thoroughly in an effort to find or discover something: such as ; a
+            to examine in seeking something ; b ...
+          </p>
+        </div>
+      </div>
     </div>
   );
 }
