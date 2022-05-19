@@ -3,9 +3,12 @@ import AppsIcon from "@mui/icons-material/Apps";
 import AccountCircleIcon from "@mui/icons-material/AccountCircle";
 
 import "./header.css";
+import ProductDropdown from "../../pages/productsPage/ProductDropdown";
 
 export default function Header() {
   const [user, setUser] = useState(false);
+
+  const appShow = () => {};
   return (
     <>
       <div className="header">

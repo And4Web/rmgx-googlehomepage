@@ -1,0 +1,20 @@
+.productCards {
+  margin: 0;
+  padding: 0;
+  height: 26rem;
+  width: 20rem;
+  /* background-color: chartreuse; */
+  /* border: 1px solid black; */
+  border-radius: 5px;
+  box-shadow: 1px 1px 8px grey;
+  overflow-y: scroll;
+  scrollbar-width: 5px;
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.productCards::-webkit-scrollbar {
+  display: none;
+}
