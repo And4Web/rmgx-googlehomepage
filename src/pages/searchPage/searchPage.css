@@ -21,6 +21,9 @@
   margin-right: 2rem;
   
 }
+.searchpage_inputbar img:hover{
+  cursor: pointer;
+}
 .searchpage_optionsbar{
   display: flex;
   align-items: center;
