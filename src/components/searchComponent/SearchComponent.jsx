@@ -4,16 +4,20 @@ import "./searchComponent.css";
 import SearchIcon from "@mui/icons-material/Search";
 import { Button } from "@mui/material";
 
+import { ActionTypes } from "@mui/base";
+
 export default function SearchComponent(props) {
   const { hideButtons } = props;
 
-  const [state, setState] = useState();
-  const nav = useNavigate();
-  console.log(state);
+  const [input, setInput] = useState();
+
+  const navigate = useNavigate();
+  console.log(input);
 
   const onClick = (e) => {
     e.preventDefault();
-    nav("/search");
+
+    navigate("/search");
   };
 
   return (
@@ -21,7 +25,7 @@ export default function SearchComponent(props) {
       <form className="search">
         <div className="search-input">
           <SearchIcon className="searchIconCustom" />
-          <input value={state} onChange={(e) => setState(e.target.value)} />
+          <input value={input} onChange={(e) => setInput(e.target.value)} />
         </div>
         {!hideButtons && (
           <div className="search-buttons">
